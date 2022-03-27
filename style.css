@@ -1,0 +1,13 @@
+.messageBox {
+    border: 1px solid red;
+    padding: .5em .5em;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-size: 1.5em;
+    display: none;
+}
+
+.container {
+    max-width: 750px;
+}
